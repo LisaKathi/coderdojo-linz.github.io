@@ -57,3 +57,7 @@ Wenn man die Leertaste loslässt, wird die Banane abgefeuert. Hier kommt jetzt d
 ## Weitere Ideen
 
 * Mach den Winkel mit den Pfeiltaste veränderbar.
+
+## Herunterladen
+
+Du kannst das fertige Projekt unter [sling-shot.sb3](scratch-slingshot-v3/sling-shot.sb3) herunterladen.
