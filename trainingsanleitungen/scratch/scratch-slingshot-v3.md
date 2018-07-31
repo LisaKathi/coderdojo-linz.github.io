@@ -34,6 +34,7 @@ Wir brauchen für das Spiel verschiedene Variablen:
 | *t* | die vergangene Zeit während des Wurfs |
 | *x0* | die x-Position der Banane am Beginn des Wurfs |
 | *y0* | die y-Position der Banane am Beginn des Wurfs |
+
 Alle Variablen gelten für alle Figuren.
 
 ## Skripte für das Gummiband
@@ -57,7 +58,10 @@ Wenn man die Leertaste loslässt, wird die Banane abgefeuert. Hier kommt jetzt d
 ## Weitere Ideen
 
 * Mach den Winkel mit den Pfeiltaste veränderbar.
+<<<<<<< HEAD
 
 ## Herunterladen
 
 Du kannst das fertige Projekt unter [sling-shot.sb3](scratch-slingshot-v3/sling-shot.sb3) herunterladen.
+=======
+>>>>>>> 064f547c3c2f3d50db252830f6aa55be2a372f3d
